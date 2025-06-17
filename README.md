@@ -33,6 +33,7 @@ To identify bank customers with a high likelihood of purchasing a loan, you need
 Analyze the data and come up with a predictive model to determine if a customer will leave the credit card services or not and the reason behind it
 
 *Skills covered: eda, random forest, bagging, boosting, smote, cross validation, data preprocessing, hyperparameter tuning*
+
 ---
 
 ## 🧠 Project 4 – Churn Prediction - Neural Networks
